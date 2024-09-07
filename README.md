@@ -34,7 +34,7 @@ Compila el código con el siguiente comando:
 3. **Ejecutar el Juego**:
 Después de compilar, ejecuta el juego con:
 'java GuessTheNumberGame'
-# Aprendizajes Durante el Desarrollo
+## Aprendizajes Durante el Desarrollo
 
 - **Manejo de Entradas del Usuario:** Aprendí a gestionar la entrada del usuario a través de la línea de comandos usando Scanner en Java.
 - **Generación de Números Aleatorios:** Implementé la generación de números aleatorios usando la clase Random para seleccionar el número objetivo.
